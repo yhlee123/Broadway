@@ -14,6 +14,15 @@ body{
   color: white;
 }
 
+footer{
+  background-image: url("../images/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
 ul{
   list-style-type: none;
 }
